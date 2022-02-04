@@ -13,6 +13,7 @@ public class CardDealer
 {
     public static void main(String[] args)
     { //my first commit
+        //change from Suhjin_Min branch
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }

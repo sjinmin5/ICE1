@@ -12,6 +12,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  */
 public class Card 
 {   //my first commit
+    //change from Suhjin_Min branch
     private String suit;// hearts, diamonds, spades and clubs
     private int value;//1-13
     
