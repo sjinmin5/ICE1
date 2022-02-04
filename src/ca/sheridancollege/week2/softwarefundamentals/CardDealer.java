@@ -20,5 +20,7 @@ public class CardDealer
         
         Card card = new Card("Clbs", 1);
         System.out.println(card);
+        
+        Card card2 = new Card("Clbs", 7);
     }
 }
