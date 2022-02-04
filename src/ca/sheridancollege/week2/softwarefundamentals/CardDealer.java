@@ -8,6 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * Modifier: Suhjin Min/991647980
  */
 public class CardDealer 
 {
@@ -16,5 +17,7 @@ public class CardDealer
         //change from Suhjin_Min branch
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        Card card = new Card("Clbs", 1);
     }
 }
