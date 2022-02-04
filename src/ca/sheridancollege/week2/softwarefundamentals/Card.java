@@ -11,7 +11,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * @author dancye, 2019
  */
 public class Card 
-{
+{   //my first commit
     private String suit;// hearts, diamonds, spades and clubs
     private int value;//1-13
     
